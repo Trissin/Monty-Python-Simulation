@@ -2,6 +2,8 @@
 
 An interactive visualization of the classic Monty Hall Probability paradox. 
 
+![Demo Image](https://i.gyazo.com/451b364025610a78dccf696777d200e1.png)
+
 Learn more about the problem [here](https://en.wikipedia.org/wiki/Monty_Hall_problem).
 
 Watch the video that inspired this program by clicking below:
